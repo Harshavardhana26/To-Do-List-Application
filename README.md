@@ -1,6 +1,4 @@
-# To-Do-List-Application
-#Sample output for the above code :
-#To-Do-List Application menu
+
 # Sample output for the above code :
 # To-Do-List Application menu
 1.Display To-Do List
